@@ -1,18 +1,20 @@
 nav{
-	background:#800080;
-	border-radius: 10px;
+	margin:5%;
+	background:#A37E0F;
+	border-radius: 0px;
 	height: 50px;
 	line-height: 50px;
-	max-width: 480px
+	max-width: 100%;
+	
 }
 menu{
 	list-style: none;
 }
 menu li{
 	display: inline-block;
-	padding: 0 25px;
-	background: #FFFF00;
-	height:50px;
+	padding: 0 6%;
+	background: #A37E0F;
+	height:7%;
 	margin:0 -2px;
 	border-right: solid 2px black;
 }
